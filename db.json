@@ -1,4 +1,5 @@
-[
+{
+   "cards": [
     {
         "name": "card1",
         "title": "Exciting Adventure in the Amazon Rainforest",
@@ -30,4 +31,4 @@
         "posted": "Posted on April 9, 2023"
     }
 ]
-
+}
