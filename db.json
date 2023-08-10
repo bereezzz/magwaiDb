@@ -1,4 +1,3 @@
-
 [
     {
         "name": "card1",
@@ -29,7 +28,9 @@
         "title": "Time Travel Expedition to Ancient Egypt",
         "text": "Travel back in time to ancient Egypt, explore the pyramids, and unravel the mysteries of the pharaohs.",
         "posted": "Posted on April 9, 2023"
-    },
+    }
+]
+[
     {
         "name": "card6",
         "title": "Safari Retreat in the Serengeti Plains",
@@ -59,7 +60,9 @@
         "title": "Discovering Hidden Temples in the Cambodian Jungle",
         "text": "Venture deep into the Cambodian jungle to uncover ancient hidden temples, forgotten by time and overgrown by nature.",
         "posted": "Posted on November 19, 2022"
-    },
+    }
+]
+[
     {
         "name": "card11",
         "title": "Adrenaline-Packed Skydiving Over the Grand Canyon",
@@ -89,8 +92,10 @@
         "title": "Sailing the Greek Islands on a Private Yacht",
         "text": "Set sail on a luxurious private yacht, hopping between the sun-soaked Greek islands, each with its own unique charm.",
         "posted": "Posted on June 8, 2022"
-    },
-    {
+    }
+]
+  [
+      {
         "name": "card16",
         "title": "Hiking the Iconic Trails of Patagonia",
         "text": "Embark on a challenging hike through the breathtaking landscapes of Patagonia, surrounded by towering peaks and glaciers.",
@@ -119,8 +124,10 @@
         "title": "Camping Under the Northern Lights in Lapland",
         "text": "Experience the magical Northern Lights while camping in the wilderness of Lapland, surrounded by snow and tranquility.",
         "posted": "Posted on January 22, 2022"
-    },
-    {
+    }
+  ]
+  [
+      {
         "name": "card21",
         "title": "Wildlife Safari in the Heart of African Savanna",
         "text": "Embark on an unforgettable wildlife safari in the heart of the African savanna, observing majestic animals in their natural habitat.",
@@ -149,8 +156,10 @@
         "title": "Winter Wonderland: Skiing in the Swiss Alps",
         "text": "Hit the slopes of the Swiss Alps for an unforgettable skiing experience, surrounded by stunning alpine vistas.",
         "posted": "Posted on August 12, 2021"
-    },
-    {
+    }
+  ]
+  [
+      {
         "name": "card26",
         "title": "Cruising through the Enchanting Norwegian Fjords",
         "text": "Embark on a scenic cruise through the enchanting Norwegian fjords, marveling at the dramatic landscapes and cascading waterfalls.",
