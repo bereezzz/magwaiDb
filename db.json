@@ -2,30 +2,35 @@
    "cards": [
     {
         "name": "card1",
+        "img":"https://unsplash.com/photos/p_Ye2kA2F0A",
         "title": "Exciting Adventure in the Amazon Rainforest",
         "text": "Embark on a thrilling journey through the dense Amazon rainforest, encountering rare wildlife and breathtaking landscapes.",
         "posted": "Posted on August 1, 2023"
     },
     {
         "name": "card2",
+        "img":"https://unsplash.com/photos/WyxqQpyFNk8",
         "title": "Gourmet Cooking Class with a Celebrity Chef",
         "text": "Learn the art of gourmet cooking from a renowned celebrity chef, using the finest ingredients and secret techniques.",
         "posted": "Posted on July 28, 2023"
     },
     {
         "name": "card3",
+        "img":"https://unsplash.com/photos/lCPhGxs7pww",
         "title": "Unwind and Relax at a Secluded Island Resort",
         "text": "Indulge in ultimate relaxation at a private island resort, with white sandy beaches and crystal-clear turquoise waters.",
         "posted": "Posted on June 15, 2023"
     },
     {
         "name": "card4",
+        "img":"https://unsplash.com/photos/NeTPASr-bmQ",
         "title": "Space Tourism: A Vacation Beyond the Stars",
         "text": "Experience zero-gravity adventure and witness the Earth from space in this once-in-a-lifetime space tourism opportunity.",
         "posted": "Posted on May 2, 2023"
     },
     {
         "name": "card5",
+        "img":"https://unsplash.com/photos/1zO4O3Z0UJA",
         "title": "Time Travel Expedition to Ancient Egypt",
         "text": "Travel back in time to ancient Egypt, explore the pyramids, and unravel the mysteries of the pharaohs.",
         "posted": "Posted on April 9, 2023"
